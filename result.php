@@ -1,5 +1,4 @@
 <?php
-//this is a test
 date_default_timezone_set ( 'PRC' );
 set_time_limit ( 30 );
 
