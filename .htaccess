@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymlinks
+RewriteEngine on 
+RewriteRule index-(.*)\.html$ index.php?v=$1
+RewriteRule result-(.*)-(.*)-(.*)-(.*)\.html$ result.php?qid=$1&t=$2&s=$3&v=$4
+RewriteRule result-(.*)-(.*)\.html$ result.php?qid=$1&v=$2
+RewriteRule jump-(.*)-(.*)\.html$ jump.php?qid=$1&v=$2
+RewriteRule abc/(.*)\.html$ abc.php?&v=$1
+</IfModule>
