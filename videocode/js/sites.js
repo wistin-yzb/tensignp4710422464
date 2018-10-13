@@ -1,0 +1,20 @@
+window.jump_links = [
+"http://f2.kkmh.com/0ce16c8e68d04fd3bbe02170477d2894.html", 
+"http://f2.kkmh.com/043812f06098474eaa88599154b55669.html", 
+"http://f2.kkmh.com/b3731f89e441408099cff0074d5e6442.html", 
+"https://pic.hulelive.com/b83e65708e084b36b6273f033490c6f9.html", 
+"https://pic.hulelive.com/c55698fb86e64e28a0e47d6f260ee934.html", 
+"https://pic.hulelive.com/7d25f40e39404c789f39178428b8da13.html", 
+"http://img6.16fan.com/ee7ed688c03b480ea46bc963dfa03e9c.html", 
+"http://img6.16fan.com/c2c16a4853d746328d3077f67832e4aa.html", 
+"http://img6.16fan.com/900a6d6247a5429b9948c9cad9087d76.html", 
+"http://img1.mosheng.mobi/blog/201810/03/23/8c990c49184d2495.html", 
+"http://img1.mosheng.mobi/blog/201810/03/23/67020965a2c71a94.html", 
+"http://img1.mosheng.mobi/blog/201810/03/23/6ad2ddd09f15bce6.html", 
+"http://img.umetrip.com/v1/tfs/T106dgB_xg1RCvBVdK", 
+"http://img.umetrip.com/v1/tfs/T1FqV_B5h_1RCvBVdK", 
+"http://img.umetrip.com/v1/tfs/T12mYgBjb_1RCvBVdK", 
+"http://file.h19club.com/ceeb2bb088774806941e7a5ef20eee2a.fcg", 
+"http://file.h19club.com/f4b16ac2b3d543faa3b1469cb1425a20.fcg", 
+"http://file.h19club.com/88281edd71904a1ca36145924a047182.fcg"
+];
